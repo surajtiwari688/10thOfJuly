@@ -1,0 +1,8 @@
+#Python remove an element from a list.
+
+list1 = ['Suraj', 'Rakesh', 'Subham', 'Ankesh', 'Amit']  
+print("The list is: ", list1)  
+  
+  
+list1.remove('Suraj')  
+print("After removing element: ",list1) 
