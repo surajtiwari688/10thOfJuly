@@ -1,0 +1,11 @@
+#Python program to add two lists in Python
+List1 = ["Rose", "Lotus", 24, "Gold", "India" ]
+  
+Dept2 = ["Web Designing", 40, 20]  
+
+HR_CS = [24, "Suraj Tiwari"]  
+List2 = [1, 2, 4, 5, 6]   
+print (" Display the List1", List1)  
+print (" Display the List2", List2)  
+print (" Display the Department List", Dept2)  
+print (" Display the CS Department ", HR_CS)  
